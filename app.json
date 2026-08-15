@@ -1,21 +1,208 @@
 {
   "apps": [
     {
-      "name": "Photo Editor Pro",
-      "img": "https://i.pinimg.com/1200x/59/9f/9f/599f9f55d0b8063264261cccbe0b2439.jpg",
-      "description": "Professional photo editing tool with filters and effects",
+      "name": "Instagram",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png",
+      "description": "Comparte fotos y videos con tus amigos y seguidores. Historias, Reels, mensajes directos y más.",
       "capture": [
-        "https://example.com/screenshots/screen1.jpg",
-        "https://example.com/screenshots/screen2.jpg",
-        "https://example.com/screenshots/screen3.jpg"
+        "https://play-lh.googleusercontent.com/5yBXAhw8bCCh2z2PYXqWjbyDgR0vx1nIejx3tPzZKPLbyL-7tGLsKGt41HB-pFSKpQ=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/09dXWUEuKvWQKPPO3kqYQRKsr9wHQtrYgxAsVb38R8-zJJpn-rLih8QnK5Z6fLJAmf8=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/1nzT7_7tQEnPkZqM7TkJhSf1nE6jW0Lg6TQ4uXwQ3I0=w526-h296-rw"
       ],
-      "version": "3.2.1",
-      "down_link": "https://playstore.com/photo-editor-pro",
-      "category": "Photography",
-      "dev": "Pixel Studio Inc.",
+      "version": "293.0.0.33.79",
+      "down_link": "https://play.google.com/store/apps/details?id=com.instagram.android",
+      "category": "Social",
+      "dev": "Instagram",
       "age": 12,
-      "lang": "en",
-      "more": "Premium version available with advanced features"
+      "lang": "es",
+      "more": "Miles de millones de usuarios activos mensuales. Comparte tu vida en fotos y videos."
+    },
+    {
+      "name": "TikTok",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TikTok_logo.svg/2048px-TikTok_logo.svg.png",
+      "description": "La red social de videos cortos más popular del mundo. Crea, comparte y descubre contenido viral.",
+      "capture": [
+        "https://play-lh.googleusercontent.com/KVbyOSZxM4QYBYjz6bnhZk-PTs-B1WoS4dzf4VHpVrYv1x-Xdy6t3d16SzL1IhY4pw=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/HW8KzRASiMPt4vOnMsLyQffa0hxN0XD4R1-hkIqe_VQau-vzNnI5hYEGpV2jQw=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/2bbJr75ScDWBfqS48kAElfYh9C7BxWqD3MhFfL2GcA=w526-h296-rw"
+      ],
+      "version": "33.2.4",
+      "down_link": "https://play.google.com/store/apps/details?id=com.zhiliaoapp.musically",
+      "category": "Social",
+      "dev": "TikTok Pte. Ltd.",
+      "age": 12,
+      "lang": "es",
+      "more": "Tendencias virales, música, bailes y contenido creativo. La app de entretenimiento más descargada."
+    },
+    {
+      "name": "Facebook",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png",
+      "description": "Conecta con amigos, familia y comunidades. Comparte fotos, videos, eventos y noticias.",
+      "capture": [
+        "https://play-lh.googleusercontent.com/7vkf_YWGOHTg-b3gBrlt3gF1e_ygEDH13n9WwK-pAMmU8LafrQZ_j4KlC5i54dQj1g=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/h7teRg5cznLJ0VWYfQ9WUxHtQsNnv-5zH7fMfnwXrE8=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/5j8-91JnjIvhQbY9M4wJug6PuFv_hVgCfxCq6O4=w526-h296-rw"
+      ],
+      "version": "439.0.0.47.102",
+      "down_link": "https://play.google.com/store/apps/details?id=com.facebook.katana",
+      "category": "Social",
+      "dev": "Meta Platforms",
+      "age": 13,
+      "lang": "es",
+      "more": "Más de 2 mil millones de usuarios en todo el mundo. La red social más grande del planeta."
+    },
+    {
+      "name": "Twitter/X",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/X_logo_2023.svg/2048px-X_logo_2023.svg.png",
+      "description": "Mantente informado con noticias en tiempo real, tendencias globales y conversaciones.",
+      "capture": [
+        "https://play-lh.googleusercontent.com/wG5bP64bO8HYCgH_BpAvNao1WXXGR-PZ8PAVHvssKYB8pHjsYKmLgyMqCov2KRA=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/RMxMqvNpCPwXjRORWAMQzPZ6s9tYrO7W6a9mTQ8=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/5fKfA9wQ6NtCgQY5tI8gI6w=w526-h296-rw"
+      ],
+      "version": "9.87.0",
+      "down_link": "https://play.google.com/store/apps/details?id=com.twitter.android",
+      "category": "Social",
+      "dev": "X Corp.",
+      "age": 17,
+      "lang": "es",
+      "more": "La plaza pública digital. Noticias, política, deportes y entretenimiento en tiempo real."
+    },
+    {
+      "name": "WhatsApp",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/2048px-WhatsApp.svg.png",
+      "description": "Mensajería instantánea con cifrado de extremo a extremo. Llamadas, videollamadas y grupos.",
+      "capture": [
+        "https://play-lh.googleusercontent.com/7C7EvG4V3E3zNk1P1ZP2ZP3ZP4ZP5ZP6ZP7ZP8ZP9ZP0=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/8D8EvG4V3E3zNk1P1ZP2ZP3ZP4ZP5ZP6ZP7ZP8ZP9ZP0=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/9E9EvG4V3E3zNk1P1ZP2ZP3ZP4ZP5ZP6ZP7ZP8ZP9ZP0=w526-h296-rw"
+      ],
+      "version": "2.24.15.78",
+      "down_link": "https://play.google.com/store/apps/details?id=com.whatsapp",
+      "category": "Social",
+      "dev": "WhatsApp LLC",
+      "age": 16,
+      "lang": "es",
+      "more": "Más de 2 mil millones de usuarios en todo el mundo. Mensajería segura y confiable."
+    },
+    {
+      "name": "YouTube",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/YouTube_icon_%282013-2017%29.png/2048px-YouTube_icon_%282013-2017%29.png",
+      "description": "La plataforma de videos más grande del mundo. Sube, comparte y descubre contenido de todo tipo.",
+      "capture": [
+        "https://play-lh.googleusercontent.com/7D7EvG4V3E3zNk1P1ZP2ZP3ZP4ZP5ZP6ZP7ZP8ZP9ZP0=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/8E8EvG4V3E3zNk1P1ZP2ZP3ZP4ZP5ZP6ZP7ZP8ZP9ZP0=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/9F9EvG4V3E3zNk1P1ZP2ZP3ZP4ZP5ZP6ZP7ZP8ZP9ZP0=w526-h296-rw"
+      ],
+      "version": "19.25.36",
+      "down_link": "https://play.google.com/store/apps/details?id=com.google.android.youtube",
+      "category": "Entertainment",
+      "dev": "Google LLC",
+      "age": 13,
+      "lang": "es",
+      "more": "Más de 2 mil millones de usuarios activos mensuales. Contenido en todos los idiomas."
+    },
+    {
+      "name": "Snapchat",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Snapchat_logo.svg/2048px-Snapchat_logo.svg.png",
+      "description": "Mensajes efímeros, filtros divertidos y lentes AR. Comparte momentos que desaparecen.",
+      "capture": [
+        "https://play-lh.googleusercontent.com/8G8EvG4V3E3zNk1P1ZP2ZP3ZP4ZP5ZP6ZP7ZP8ZP9ZP0=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/9H9EvG4V3E3zNk1P1ZP2ZP3ZP4ZP5ZP6ZP7ZP8ZP9ZP0=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/0I0EvG4V3E3zNk1P1ZP2ZP3ZP4ZP5ZP6ZP7ZP8ZP9ZP0=w526-h296-rw"
+      ],
+      "version": "12.67.0.38",
+      "down_link": "https://play.google.com/store/apps/details?id=com.snapchat.android",
+      "category": "Social",
+      "dev": "Snap Inc.",
+      "age": 12,
+      "lang": "es",
+      "more": "Más de 300 millones de usuarios activos diarios. Filtros AR y contenido efímero."
+    },
+    {
+      "name": "LinkedIn",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/2048px-LinkedIn_logo_initials.png",
+      "description": "La red profesional para conectar con colegas, buscar empleo y construir tu carrera.",
+      "capture": [
+        "https://play-lh.googleusercontent.com/1J1EvG4V3E3zNk1P1ZP2ZP3ZP4ZP5ZP6ZP7ZP8ZP9ZP0=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/2K2EvG4V3E3zNk1P1ZP2ZP3ZP4ZP5ZP6ZP7ZP8ZP9ZP0=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/3L3EvG4V3E3zNk1P1ZP2ZP3ZP4ZP5ZP6ZP7ZP8ZP9ZP0=w526-h296-rw"
+      ],
+      "version": "4.1.15",
+      "down_link": "https://play.google.com/store/apps/details?id=com.linkedin.android",
+      "category": "Social",
+      "dev": "LinkedIn Corporation",
+      "age": 18,
+      "lang": "es",
+      "more": "Más de 700 millones de profesionales. Encuentra tu próximo trabajo o oportunidad de negocio."
+    },
+    {
+      "name": "Pinterest",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Pinterest-logo.svg/2048px-Pinterest-logo.svg.png",
+      "description": "Descubre e guarda ideas creativas para recetas, decoración, moda, arte y más.",
+      "capture": [
+        "https://play-lh.googleusercontent.com/4M4EvG4V3E3zNk1P1ZP2ZP3ZP4ZP5ZP6ZP7ZP8ZP9ZP0=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/5N5EvG4V3E3zNk1P1ZP2ZP3ZP4ZP5ZP6ZP7ZP8ZP9ZP0=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/6O6EvG4V3E3zNk1P1ZP2ZP3ZP4ZP5ZP6ZP7ZP8ZP9ZP0=w526-h296-rw"
+      ],
+      "version": "3.18.0",
+      "down_link": "https://play.google.com/store/apps/details?id=com.pinterest",
+      "category": "Social",
+      "dev": "Pinterest",
+      "age": 13,
+      "lang": "es",
+      "more": "Más de 400 millones de usuarios activos mensuales. Inspírate y guarda tus ideas favoritas."
+    },
+    {
+      "name": "Telegram",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png",
+      "description": "Mensajería rápida y segura con canales, grupos masivos y bots personalizados.",
+      "capture": [
+        "https://play-lh.googleusercontent.com/7P7EvG4V3E3zNk1P1ZP2ZP3ZP4ZP5ZP6ZP7ZP8ZP9ZP0=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/8Q8EvG4V3E3zNk1P1ZP2ZP3ZP4ZP5ZP6ZP7ZP8ZP9ZP0=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/9R9EvG4V3E3zNk1P1ZP2ZP3ZP4ZP5ZP6ZP7ZP8ZP9ZP0=w526-h296-rw"
+      ],
+      "version": "10.9.1",
+      "down_link": "https://play.google.com/store/apps/details?id=org.telegram.messenger",
+      "category": "Social",
+      "dev": "Telegram FZ-LLC",
+      "age": 16,
+      "lang": "es",
+      "more": "Más de 700 millones de usuarios. Mensajería en la nube con cifrado y alta velocidad."
+    },
+    {
+      "name": "Discord",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Discord_logo.svg/2048px-Discord_logo.svg.png",
+      "description": "Comunidades para gamers y creadores. Chat de voz, video y texto en servidores personalizados.",
+      "capture": [
+        "https://play-lh.googleusercontent.com/0S0EvG4V3E3zNk1P1ZP2ZP3ZP4ZP5ZP6ZP7ZP8ZP9ZP0=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/1T1EvG4V3E3zNk1P1ZP2ZP3ZP4ZP5ZP6ZP7ZP8ZP9ZP0=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/2U2EvG4V3E3zNk1P1ZP2ZP3ZP4ZP5ZP6ZP7ZP8ZP9ZP0=w526-h296-rw"
+      ],
+      "version": "205.0.0",
+      "down_link": "https://play.google.com/store/apps/details?id=com.discord",
+      "category": "Social",
+      "dev": "Discord Inc.",
+      "age": 17,
+      "lang": "es",
+      "more": "Más de 150 millones de usuarios activos. La plataforma de comunicación para comunidades."
+    },
+    {
+      "name": "Reddit",
+      "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Reddit_logo.svg/2048px-Reddit_logo.svg.png",
+      "description": "El foro de Internet con miles de comunidades sobre cualquier tema imaginable.",
+      "capture": [
+        "https://play-lh.googleusercontent.com/3V3EvG4V3E3zNk1P1ZP2ZP3ZP4ZP5ZP6ZP7ZP8ZP9ZP0=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/4W4EvG4V3E3zNk1P1ZP2ZP3ZP4ZP5ZP6ZP7ZP8ZP9ZP0=w526-h296-rw",
+        "https://play-lh.googleusercontent.com/5X5EvG4V3E3zNk1P1ZP2ZP3ZP4ZP5ZP6ZP7ZP8ZP9ZP0=w526-h296-rw"
+      ],
+      "version": "2024.17.0",
+      "down_link": "https://play.google.com/store/apps/details?id=com.reddit.frontpage",
+      "category": "Social",
+      "dev": "Reddit Inc.",
+      "age": 17,
+      "lang": "es",
+      "more": "Más de 500 millones de usuarios activos mensuales. Pregunta, debate y descubre contenido único."
     }
   ]
 }
