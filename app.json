@@ -2,7 +2,7 @@
   "apps": [
     {
       "name": "Photo Editor Pro",
-      "img": "https://example.com/images/photo-editor.png",
+      "img": "https://i.pinimg.com/1200x/59/9f/9f/599f9f55d0b8063264261cccbe0b2439.jpg",
       "description": "Professional photo editing tool with filters and effects",
       "capture": [
         "https://example.com/screenshots/screen1.jpg",
