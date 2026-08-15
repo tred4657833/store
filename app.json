@@ -1,0 +1,21 @@
+{
+  "apps": [
+    {
+      "name": "Photo Editor Pro",
+      "img": "https://example.com/images/photo-editor.png",
+      "description": "Professional photo editing tool with filters and effects",
+      "capture": [
+        "https://example.com/screenshots/screen1.jpg",
+        "https://example.com/screenshots/screen2.jpg",
+        "https://example.com/screenshots/screen3.jpg"
+      ],
+      "version": "3.2.1",
+      "down_link": "https://playstore.com/photo-editor-pro",
+      "category": "Photography",
+      "dev": "Pixel Studio Inc.",
+      "age": 12,
+      "lang": "en",
+      "more": "Premium version available with advanced features"
+    }
+  ]
+}
